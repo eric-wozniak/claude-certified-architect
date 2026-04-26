@@ -1,6 +1,6 @@
 # Claude Architecture Patterns Study Guide
 
-##Not official exam material.
+## Not official exam material.
 Community study notes compiled from resources and candidate feedback.
 
 If short on time:
