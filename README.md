@@ -1,5 +1,13 @@
 # Claude Architecture Patterns Study Guide
 
+Not official exam material.
+Community study notes compiled from resources and candidate feedback.
+
+If short on time:
+1. MCP
+2. Multi-agent patterns
+3. Reliability / evaluation architecture
+
 ## Layered Framework
 Study everything through four layers:
 
